@@ -1,4 +1,0 @@
-kyusu-tyabatake-SystemTest
-==========================
-
-Systemクラスについてのサンプル
